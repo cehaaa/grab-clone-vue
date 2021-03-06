@@ -1,19 +1,7 @@
-# grab-clone-vue
+# Grab Clone
 
-## Project setup
-```
-npm install
-```
+This is a simple clone for [Grab.com](https://grab.com) website, this website is made for self learning built with Vue and tailwindcss , all rights reserved to GRAB.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+You can also check the [Grab Website](https://grab.com)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Grab clone mockup](https://github.com/veeloo/Grab/blob/main/demo/home.png)
