@@ -127,7 +127,7 @@
 						</div>
 						<div class="pt-2 pb-8 px-8">
 							<h3
-								class="group-hover:text-green-500 text-gray-900 duration-200 font-medium text-2xl mb-2 block">
+								class="group-hover:text-green-500 text-gray-900 font-medium text-2xl mb-2 block">
 								Transportasi
 							</h3>
 							<p class="text-gray-600 text-base leading-7">
